@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ee6e4141a67b3d34fae7319546e15ede
+timeCreated: 1517572409
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 110922
+  packageName: Animated Snakes PBR Volume 2
+  packageVersion: 3.0
+  assetPath: Assets/Animated Snake PBR Vol 2/Controllers/BlackOrangeSnake.controller
+  uploadId: 490378

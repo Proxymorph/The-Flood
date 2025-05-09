@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ce639bfb5011fa64d98a8a3dd55e1018
+timeCreated: 1575122822
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 110922
+  packageName: Animated Snakes PBR Volume 2
+  packageVersion: 3.0
+  assetPath: Assets/Animated Snake PBR Vol 2/Materials/YellowSnakeBody.mat
+  uploadId: 490378

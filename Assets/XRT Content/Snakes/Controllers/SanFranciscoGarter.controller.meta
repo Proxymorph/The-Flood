@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aa58ae4b80cd54d4cb0a690f9e2ce63f
+timeCreated: 1517572442
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 110922
+  packageName: Animated Snakes PBR Volume 2
+  packageVersion: 3.0
+  assetPath: Assets/Animated Snake PBR Vol 2/Controllers/SanFranciscoGarter.controller
+  uploadId: 490378

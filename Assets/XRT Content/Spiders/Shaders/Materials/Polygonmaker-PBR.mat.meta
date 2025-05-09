@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cc79100f2dda7d54b96c5124a19cf6fa
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 1981
+  packageName: Wild Life - Spiders
+  packageVersion: 2.1.1
+  assetPath: Assets/Polygonmaker/Polygonmaker - Shader/Materials/Polygonmaker-PBR.mat
+  uploadId: 432569

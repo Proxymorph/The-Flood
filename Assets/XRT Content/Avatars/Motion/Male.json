@@ -1,0 +1,970 @@
+﻿{
+    "Male": {
+        "Version": "1.10.1822.1",
+        "Scene": {
+            "Name": true,
+            "SupportShaderSelect": true
+        },
+        "Export Directory": "C:/Users/XRTSy/OneDrive - XR Therapeutics/CC4/Exports/Animations/Male/Animations",
+        "Object": {
+            "Male": {
+                "Generation": "",
+                "Physics": {
+                    "Collision Shapes": {
+                        "CC_Base_Hip": {
+                            "Capsule": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 2.0,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    -5.457005500793457,
+                                    3.9885494709014894,
+                                    107.7970199584961
+                                ],
+                                "WorldRotationQ": [
+                                    0.8121426701545715,
+                                    0.074869304895401,
+                                    -0.10692481696605683,
+                                    0.568670392036438
+                                ],
+                                "WorldScale": [
+                                    1.0,
+                                    1.0000001192092896,
+                                    1.0000001192092896
+                                ],
+                                "Radius": 8.692729949951172,
+                                "Capsule Length": 24.919788360595704
+                            },
+                            "Capsule(0)": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 2.0,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    5.457664966583252,
+                                    3.9885494709014894,
+                                    107.79692077636719
+                                ],
+                                "WorldRotationQ": [
+                                    0.8121436238288879,
+                                    -0.07486385852098465,
+                                    0.10691704601049423,
+                                    0.5686711072921753
+                                ],
+                                "WorldScale": [
+                                    1.0000001192092896,
+                                    1.0000001192092896,
+                                    1.0000001192092896
+                                ],
+                                "Radius": 8.692729949951172,
+                                "Capsule Length": 24.919788360595704
+                            }
+                        },
+                        "CC_Base_L_Thigh": {
+                            "Capsule": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    8.843803405761719,
+                                    2.284135103225708,
+                                    76.6427001953125
+                                ],
+                                "WorldRotationQ": [
+                                    -0.0303193312138319,
+                                    0.7400557994842529,
+                                    -0.6710103154182434,
+                                    -0.03381342440843582
+                                ],
+                                "WorldScale": [
+                                    1.0000001192092896,
+                                    0.9999996423721314,
+                                    0.9999997019767761
+                                ],
+                                "Radius": 7.471283912658691,
+                                "Capsule Length": 42.28239440917969
+                            }
+                        },
+                        "CC_Base_L_Calf": {
+                            "Capsule": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    7.881375789642334,
+                                    5.034400463104248,
+                                    30.397581100463868
+                                ],
+                                "WorldRotationQ": [
+                                    -0.0066041904501616959,
+                                    0.7126597166061401,
+                                    -0.7014442682266235,
+                                    -0.006962287239730358
+                                ],
+                                "WorldScale": [
+                                    0.9999997019767761,
+                                    0.9999995231628418,
+                                    0.9999997019767761
+                                ],
+                                "Radius": 6.164681434631348,
+                                "Capsule Length": 35.07794952392578
+                            }
+                        },
+                        "CC_Base_R_Thigh": {
+                            "Capsule": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    -8.845961570739746,
+                                    2.278820276260376,
+                                    76.64246368408203
+                                ],
+                                "WorldRotationQ": [
+                                    0.03031269460916519,
+                                    0.7400148510932922,
+                                    -0.6710559725761414,
+                                    0.03380842134356499
+                                ],
+                                "WorldScale": [
+                                    0.9999999403953552,
+                                    0.9999998211860657,
+                                    0.9999995231628418
+                                ],
+                                "Radius": 7.438785552978516,
+                                "Capsule Length": 42.34206008911133
+                            }
+                        },
+                        "CC_Base_R_Calf": {
+                            "Capsule": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    -7.8779072761535648,
+                                    5.122233867645264,
+                                    30.39813995361328
+                                ],
+                                "WorldRotationQ": [
+                                    0.006603558547794819,
+                                    0.712652862071991,
+                                    -0.7014512419700623,
+                                    0.006960256490856409
+                                ],
+                                "WorldScale": [
+                                    0.9999992847442627,
+                                    0.9999990463256836,
+                                    0.9999995231628418
+                                ],
+                                "Radius": 6.15408992767334,
+                                "Capsule Length": 35.099143981933597
+                            }
+                        },
+                        "CC_Base_Spine01": {
+                            "Capsule(1)": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Z",
+                                "Margin": 2.0,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    0.0008777300245128572,
+                                    1.920284390449524,
+                                    130.0827178955078
+                                ],
+                                "WorldRotationQ": [
+                                    0.45196348428726199,
+                                    0.5438269376754761,
+                                    0.4519442319869995,
+                                    0.5438085198402405
+                                ],
+                                "WorldScale": [
+                                    0.999999463558197,
+                                    0.999999463558197,
+                                    1.0
+                                ],
+                                "Radius": 12.009812355041504,
+                                "Capsule Length": 5.229341506958008
+                            }
+                        },
+                        "CC_Base_NeckTwist01": {
+                            "Capsule": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    0.00027425377629697323,
+                                    6.410037517547607,
+                                    157.25640869140626
+                                ],
+                                "WorldRotationQ": [
+                                    0.779861569404602,
+                                    -0.0000012295240594539792,
+                                    6.258340334852619e-8,
+                                    0.6259520649909973
+                                ],
+                                "WorldScale": [
+                                    1.0,
+                                    0.9999995231628418,
+                                    0.9999995231628418
+                                ],
+                                "Radius": 5.2611212730407719,
+                                "Capsule Length": 5.305227279663086
+                            },
+                            "Capsule(0)": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Z",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    0.002714127069339156,
+                                    5.846315860748291,
+                                    143.57620239257813
+                                ],
+                                "WorldRotationQ": [
+                                    0.5514453649520874,
+                                    0.4426141381263733,
+                                    0.5514453649520874,
+                                    0.4426158666610718
+                                ],
+                                "WorldScale": [
+                                    0.999999463558197,
+                                    0.9999995231628418,
+                                    0.9999999403953552
+                                ],
+                                "Radius": 10.932323455810547,
+                                "Capsule Length": 13.708885192871094
+                            },
+                            "Capsule(1)": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    -6.998712539672852,
+                                    1.3548136949539185,
+                                    141.0274200439453
+                                ],
+                                "WorldRotationQ": [
+                                    0.31348031759262087,
+                                    0.6338211297988892,
+                                    0.3134797513484955,
+                                    0.6338227391242981
+                                ],
+                                "WorldScale": [
+                                    0.9999995231628418,
+                                    0.9999995231628418,
+                                    1.0
+                                ],
+                                "Radius": 7.259904861450195,
+                                "Capsule Length": 13.249420166015625
+                            },
+                            "Capsule(2)": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    7.001286506652832,
+                                    1.3547879457473755,
+                                    141.02745056152345
+                                ],
+                                "WorldRotationQ": [
+                                    0.31348031759262087,
+                                    0.6338211297988892,
+                                    0.3134797513484955,
+                                    0.6338227391242981
+                                ],
+                                "WorldScale": [
+                                    0.9999995231628418,
+                                    0.9999995231628418,
+                                    1.0
+                                ],
+                                "Radius": 7.259904861450195,
+                                "Capsule Length": 13.249420166015625
+                            }
+                        },
+                        "CC_Base_Head": {
+                            "Capsule": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    0.00039110323996283114,
+                                    3.1751441955566408,
+                                    169.45652770996095
+                                ],
+                                "WorldRotationQ": [
+                                    0.7071055173873901,
+                                    -0.000002168165110560949,
+                                    -0.0000037018237435404446,
+                                    0.7071080207824707
+                                ],
+                                "WorldScale": [
+                                    1.0,
+                                    0.9999995231628418,
+                                    0.9999995231628418
+                                ],
+                                "Radius": 7.414434909820557,
+                                "Capsule Length": 6.968165397644043
+                            }
+                        },
+                        "CC_Base_L_Upperarm": {
+                            "Capsule": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    27.213247299194337,
+                                    8.979374885559082,
+                                    147.98460388183595
+                                ],
+                                "WorldRotationQ": [
+                                    0.4982227385044098,
+                                    0.5016763210296631,
+                                    -0.5011531710624695,
+                                    0.4989393651485443
+                                ],
+                                "WorldScale": [
+                                    0.9999989867210388,
+                                    0.9999995827674866,
+                                    0.9999997019767761
+                                ],
+                                "Radius": 5.045431137084961,
+                                "Capsule Length": 22.943695068359376
+                            }
+                        },
+                        "CC_Base_L_Forearm": {
+                            "Capsule": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    55.42580032348633,
+                                    8.456928253173829,
+                                    149.13783264160157
+                                ],
+                                "WorldRotationQ": [
+                                    0.4992961287498474,
+                                    0.5004006624221802,
+                                    -0.5000585317611694,
+                                    0.5002440810203552
+                                ],
+                                "WorldScale": [
+                                    0.9999992251396179,
+                                    0.999999463558197,
+                                    0.9999995827674866
+                                ],
+                                "Radius": 4.368339538574219,
+                                "Capsule Length": 21.78141212463379
+                            }
+                        },
+                        "CC_Base_L_Hand": {
+                            "Capsule": {
+                                "Bone Active": false,
+                                "Bound Type": "Box",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    73.8232421875,
+                                    7.440343379974365,
+                                    149.07618713378907
+                                ],
+                                "WorldRotationQ": [
+                                    0.4952790141105652,
+                                    0.5042519569396973,
+                                    -0.4874221980571747,
+                                    0.5126873254776001
+                                ],
+                                "WorldScale": [
+                                    0.9999991059303284,
+                                    0.9999994039535523,
+                                    0.9999995827674866
+                                ],
+                                "Extent": [
+                                    4.522913932800293,
+                                    9.572025299072266,
+                                    8.070649147033692
+                                ]
+                            }
+                        },
+                        "CC_Base_R_Upperarm": {
+                            "Capsule": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    -27.219396591186525,
+                                    8.979887962341309,
+                                    147.984619140625
+                                ],
+                                "WorldRotationQ": [
+                                    -0.49822568893432619,
+                                    0.5016782879829407,
+                                    -0.5011515021324158,
+                                    -0.4989359676837921
+                                ],
+                                "WorldScale": [
+                                    0.9999992847442627,
+                                    0.9999998211860657,
+                                    0.999999463558197
+                                ],
+                                "Radius": 5.045190334320068,
+                                "Capsule Length": 22.957775115966798
+                            }
+                        },
+                        "CC_Base_R_Forearm": {
+                            "Capsule": {
+                                "Bone Active": true,
+                                "Bound Type": "Capsule",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    -55.41801071166992,
+                                    8.456832885742188,
+                                    149.13839721679688
+                                ],
+                                "WorldRotationQ": [
+                                    0.4992999732494354,
+                                    -0.500394880771637,
+                                    0.5000562071800232,
+                                    0.5002482533454895
+                                ],
+                                "WorldScale": [
+                                    0.9999992847442627,
+                                    1.0,
+                                    0.9999995827674866
+                                ],
+                                "Radius": 4.368199348449707,
+                                "Capsule Length": 21.766496658325197
+                            }
+                        },
+                        "CC_Base_R_Hand": {
+                            "Capsule": {
+                                "Bone Active": false,
+                                "Bound Type": "Box",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    -73.82817077636719,
+                                    7.7075347900390629,
+                                    149.05447387695313
+                                ],
+                                "WorldRotationQ": [
+                                    0.49528130888938906,
+                                    -0.5042487978935242,
+                                    0.4874318242073059,
+                                    0.5126791596412659
+                                ],
+                                "WorldScale": [
+                                    0.9999994039535523,
+                                    0.9999999403953552,
+                                    0.9999993443489075
+                                ],
+                                "Extent": [
+                                    5.314802169799805,
+                                    9.573326110839844,
+                                    8.195568084716797
+                                ]
+                            }
+                        },
+                        "A01_Normal": {
+                            "": {
+                                "Bone Active": false,
+                                "Bound Type": "Box",
+                                "Bound Axis": "Y",
+                                "Margin": 0.800000011920929,
+                                "Friction": 0.05000000074505806,
+                                "Elasticity": 0.5,
+                                "WorldTranslate": [
+                                    0.0,
+                                    0.0,
+                                    0.0
+                                ],
+                                "WorldRotationQ": [
+                                    0.0,
+                                    0.0,
+                                    0.0,
+                                    1.0
+                                ],
+                                "WorldScale": [
+                                    1.0,
+                                    1.0,
+                                    1.0
+                                ],
+                                "Extent": [
+                                    0.0,
+                                    0.0,
+                                    0.0
+                                ]
+                            }
+                        }
+                    }
+                },
+                "Meshes": {
+                    "CC3_Base_Plus": {
+                        "Materials": {
+                            "remesh_7_combined_Bake": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": false,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    0.0,
+                                    0.0,
+                                    0.0
+                                ],
+                                "Specular Color": [
+                                    51.0,
+                                    51.0,
+                                    51.0
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Metallic": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Base Color": {
+                                        "Texture Path": "./Male.fbm/remesh_7_combined_Bake_Diffuse.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Specular": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Glow": {
+                                        "Texture Path": "./textures/Male/Male/CC3_Base_Plus/remesh_7_combined_Bake/remesh_7_combined_Bake_Glow.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Normal": {
+                                        "Texture Path": "./Male.fbm/remesh_7_combined_Bake_Normal.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Reflection": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "AO": {
+                                        "Texture Path": "./textures/Male/Male/CC3_Base_Plus/remesh_7_combined_Bake/remesh_7_combined_Bake_ao.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "MetallicAlpha": {
+                                        "Texture Path": "./textures/Male/Male/CC3_Base_Plus/remesh_7_combined_Bake/remesh_7_combined_Bake_MetallicAlpha.png"
+                                    },
+                                    "HDRP": {
+                                        "Texture Path": "./textures/Male/Male/CC3_Base_Plus/remesh_7_combined_Bake/remesh_7_combined_Bake_HDRP.png"
+                                    }
+                                },
+                                "Resource Textures": {}
+                            }
+                        }
+                    },
+                    "A01_Normal": {
+                        "Materials": {
+                            "Scalp": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    0.0,
+                                    0.0,
+                                    0.0
+                                ],
+                                "Specular Color": [
+                                    0.0,
+                                    0.0,
+                                    0.0
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Metallic": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Base Color": {
+                                        "Texture Path": "./Male.fbm/Scalp_Diffuse.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Opacity": {
+                                        "Texture Path": "./Male.fbm/Scalp_Diffuse.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "MetallicAlpha": {
+                                        "Texture Path": "./textures/Male/A01_Normal/A01_Normal/Scalp/Scalp_MetallicAlpha.png"
+                                    },
+                                    "HDRP": {
+                                        "Texture Path": "./textures/Male/A01_Normal/A01_Normal/Scalp/Scalp_MetallicAlpha.png"
+                                    }
+                                },
+                                "Resource Textures": {}
+                            },
+                            "Hair": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    125.00000762939453,
+                                    125.00000762939453,
+                                    125.00000762939453
+                                ],
+                                "Specular Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Metallic": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Base Color": {
+                                        "Texture Path": "./Male.fbm/Hair_Diffuse.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Specular": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Roughness": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Opacity": {
+                                        "Texture Path": "./Male.fbm/Hair_Diffuse.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "AO": {
+                                        "Texture Path": "./textures/Male/A01_Normal/A01_Normal/Hair/Hair_ao.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "MetallicAlpha": {
+                                        "Texture Path": "./textures/Male/A01_Normal/A01_Normal/Hair/Hair_MetallicAlpha.png"
+                                    },
+                                    "HDRP": {
+                                        "Texture Path": "./textures/Male/A01_Normal/A01_Normal/Hair/Hair_HDRP.png"
+                                    }
+                                },
+                                "Resource Textures": {},
+                                "Custom Shader": {
+                                    "Shader Name": "RLHair",
+                                    "Image": {
+                                        "Hair Specular Mask Map": {
+                                            "Texture Path": "./textures/Male/A01_Normal/A01_Normal/Hair/Hair_HSpecMap.jpg"
+                                        },
+                                        "Hair Root Map": {
+                                            "Texture Path": "./textures/Male/A01_Normal/A01_Normal/Hair/Hair_Hair Root Map.jpg"
+                                        },
+                                        "Hair ID Map": {
+                                            "Texture Path": "./textures/Male/A01_Normal/A01_Normal/Hair/Hair_Hair ID Map.jpg"
+                                        },
+                                        "Hair Flow Map": {
+                                            "Texture Path": "./textures/Male/A01_Normal/A01_Normal/Hair/Hair_Hair Flow Map.jpg"
+                                        }
+                                    },
+                                    "Variable": {
+                                        "TangentVectorColor": [
+                                            255.0,
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "TangentMapFlipGreen": 1.0,
+                                        "AO Map Occlude All Lighting": 1.0,
+                                        "Diffuse Strength": 1.0,
+                                        "Hair Roughness Map Strength": 0.6600000262260437,
+                                        "Hair Specular Map Strength": 0.2840000092983246,
+                                        "Specular Strength": 0.4390000104904175,
+                                        "Secondary Specular Strength": 0.6240000128746033,
+                                        "Transmission Strength": 0.18700000643730164,
+                                        "No Back Face Triangles": 1.0,
+                                        "VertexGrayToColor": [
+                                            0.0,
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "VertexColorStrength": 0.875,
+                                        "ActiveChangeHairColor": 0.0,
+                                        "BaseColorMapStrength": 1.0,
+                                        "padding c4z": 0.0,
+                                        "paddingHasMips": 0.0,
+                                        "RootColor": [
+                                            4.0,
+                                            3.0,
+                                            3.0
+                                        ],
+                                        "padding c5w": 0.0,
+                                        "TipColor": [
+                                            17.0,
+                                            13.0,
+                                            12.0
+                                        ],
+                                        "RootTipBlendMode": 1.0,
+                                        "UseRootTipColor": 1.0,
+                                        "RootColorStrength": 1.0,
+                                        "TipColorStrength": 1.0,
+                                        "InvertRootTip": 0.0,
+                                        "_1st Dye Color": [
+                                            109.0,
+                                            105.0,
+                                            96.0
+                                        ],
+                                        "_1st Dye Strength": 1.0,
+                                        "_1st Dye Distribution from Grayscale": [
+                                            168.6060028076172,
+                                            213.35850524902345,
+                                            255.0
+                                        ],
+                                        "_1st BlendMode": 0.0,
+                                        "Mask 1st Dye by RootMap": 1.0,
+                                        "Invert 1st Dye RootMap Mask": 1.0,
+                                        "_1st Dye add Specular": 0.0,
+                                        "padding c10w": 0.0,
+                                        "_2nd Dye Color": [
+                                            12.0,
+                                            6.0,
+                                            2.0
+                                        ],
+                                        "_2nd Dye Strength": 1.0,
+                                        "_2nd Dye Distribution from Grayscale": [
+                                            0.0,
+                                            90.55049896240235,
+                                            172.2524871826172
+                                        ],
+                                        "_2nd BlendMode": 0.0,
+                                        "Mask 2nd Dye by RootMap": 1.0,
+                                        "Invert 2nd Dye RootMap Mask": 1.0,
+                                        "_2nd Dye add Specular": 0.0,
+                                        "padding c13w": 0.0,
+                                        "BlackColor Reflection Offset X": 0.0,
+                                        "BlackColor Reflection Offset Y": 0.0,
+                                        "BlackColor Reflection Offset Z": 0.0,
+                                        "padding c14w": 0.0,
+                                        "WhiteColor Reflection Offset X": 0.0,
+                                        "WhiteColor Reflection Offset Y": 0.0,
+                                        "WhiteColor Reflection Offset Z": 0.0,
+                                        "padding c15w": 0.0
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

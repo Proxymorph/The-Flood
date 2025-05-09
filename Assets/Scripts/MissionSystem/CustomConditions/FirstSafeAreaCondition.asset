@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 427d23f5857f8834c827570b55583569, type: 3}
+  m_Name: FirstSafeAreaCondition
+  m_EditorClassIdentifier: 
+  targetTransform: {fileID: 0}
+  targetPosition: {x: -372.28186, y: 89.19848, z: -163.24942}
+  radius: 4

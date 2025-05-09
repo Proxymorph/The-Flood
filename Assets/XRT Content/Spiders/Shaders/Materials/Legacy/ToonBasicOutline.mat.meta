@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0ff58945677ad574c9c711b099c8a8d1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 1981
+  packageName: Wild Life - Spiders
+  packageVersion: 2.1.1
+  assetPath: Assets/Polygonmaker/Polygonmaker - Shader/Materials/Legacy/ToonBasicOutline.mat
+  uploadId: 432569
